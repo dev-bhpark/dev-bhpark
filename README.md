@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Tech Stack Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Familiar / Exposure
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-thebadge&logo=C%2B%2B&logoColor=white&color=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-%2300599C?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow
-)
 
-
+![C++](https://img.shields.io/badge/C++-%23004482.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
