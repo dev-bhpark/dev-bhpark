@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 I’m currently working on ...
-Building my own discord bot 🤖
+Creating CPU percentage monitoring app
 ## 🌱 I’m currently learning ...
-JavaScript, HTML
+JavaScript, HTML, C#
 ## 💻 Tech Stack
 
 ### Languages
